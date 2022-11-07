@@ -4,14 +4,15 @@
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
+
 ## Emphasis
 **This is bold text**
 __This is bold text__
 *This is italic text*
 _This is italic text_
 ~~Strikethrough~~
-## Blockquotes
 
+## Blockquotes
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
@@ -80,3 +81,6 @@ Duplicated footnote reference[^second].
 [^first]: Footnote **can have markup**
 and multiple paragraphs.
 [^second]: Footnote text.
+
+## Images
+![Usagi](https://github.com/a28kato/a28kato.github.io/blob/main/eto_usagi_daruma.png)
